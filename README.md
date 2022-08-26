@@ -1,4 +1,4 @@
-## Hi there 👋, welcome to my GitHub Profile!
+# Hi there 👋, welcome to my GitHub Profile!
 #### "The quieter you become, the more you are able to hear"
 !["The quieter you become, the more you are able to hear"](https://i.ibb.co/DL5vxZY/Fuad-Git-Hub-Banner.png)
 
