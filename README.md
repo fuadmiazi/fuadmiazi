@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, welcome to my GitHub Profile!
+#### "The quieter you become, the more you are able to hear"
+!["The quieter you become, the more you are able to hear"](https://i.ibb.co/DL5vxZY/Fuad-Git-Hub-Banner.png)
 
-<!--
-**fuadmiazi/fuadmiazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-stack web developer. I work using MERN stack. I am also familiar with Laravel and did some projects using it. Currently doing projects using MERN stack and doing problem solving to get an in depth knowledge.
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
