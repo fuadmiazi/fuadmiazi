@@ -4,6 +4,8 @@
 
 I am a full-stack web developer. I work using MERN stack. I am also familiar with Laravel and did some projects using it. Currently doing projects using MERN stack and doing problem solving to get an in depth knowledge.
 
+![Profile views](https://gpvc.arturio.dev/fuadmiazi)  
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/fuadisawesome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fuadisawesome" height="30" width="40" /></a>
@@ -20,4 +22,3 @@ I am a full-stack web developer. I work using MERN stack. I am also familiar wit
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fuadmiazi)  
 
-![Profile views](https://gpvc.arturio.dev/fuadmiazi)  
